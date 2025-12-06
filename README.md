@@ -12,4 +12,6 @@ Hi 👋, I'm Yash Khare.<br><br>Pursuing BTech from NIT Raipur.<br><br>Intereste
 ![](https://nirzak-streak-stats.vercel.app/?user=yash0260&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash0260&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 Hacktoberfest'25 Badges 
+[![Holopin Badges](https://holopin.me/yash0260)](https://holopin.io/@yash0260)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
